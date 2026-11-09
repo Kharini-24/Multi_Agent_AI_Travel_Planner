@@ -3,6 +3,30 @@
 A LangGraph multi-agent app that turns a trip request like
 *"2 day trip to Goa for 2 people from Chennai under 30k"* into a labelled travel plan.
 The main idea: **code handles the facts, the LLM only handles the language.**
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Screenshot 1</strong><br/>
+      <img src="https://github.com/user-attachments/assets/f0b688fe-33f0-4368-ad09-9c8d933e3f8b" width="400" />
+    </td>
+    <td align="center">
+      <strong>Screenshot 2</strong><br/>
+      <img src="https://github.com/user-attachments/assets/19cab588-3ead-441e-ba5d-e8f750afea7b" width="400" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Screenshot 3</strong><br/>
+      <img src="https://github.com/user-attachments/assets/690c9211-4042-4e90-a179-5d9c932bd2fa" width="400" />
+    </td>
+    <td align="center">
+      <strong>Screenshot 4</strong><br/>
+      <img src="https://github.com/user-attachments/assets/4ecbe3a3-8c81-45cd-9ebe-228d482ccbd3" width="400" />
+    </td>
+  </tr>
+</table>
 
 ## Features
 - **Request parsing:** the LLM turns free text into a typed form (origin, destination, days, budget, ...) using structured output.
