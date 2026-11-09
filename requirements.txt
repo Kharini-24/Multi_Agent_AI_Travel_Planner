@@ -1,0 +1,10 @@
+langgraph
+langgraph-checkpoint-postgres
+langchain-core
+langchain-groq
+tavily-python
+requests
+psycopg[binary]
+psycopg-pool
+streamlit
+python-dotenv

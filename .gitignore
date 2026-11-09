@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Generated at runtime
+travel_plans/
+
+# Test cache
+.pytest_cache/
+langgraph_env3/
+
+# Temporary testing and debugging files
+last_final.txt
+last_itinerary.txt
+try_*.py
